@@ -1,6 +1,6 @@
 # X65
 
-Modern 8-bit Microcomputer
+Modern 8-bit computer
 
 <img src="https://x65.zone/media/2025-04-06_board-vis.png" alt="X65 Board Visualization" style="float:right;width:33%;">
 X65 is an 8-bit microcomputer for the modern era.<br>
