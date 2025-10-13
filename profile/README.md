@@ -29,8 +29,6 @@ It combines the spirit of 1980s microcomputers with modern hardware, open design
 | [**emu**](https://github.com/X65/emu) | Full software emulator with debugger and VS Code integration |
 | [**examples**](https://github.com/X65/examples) | Demo and test programs for real hardware and Emu |
 | [**os-816**](https://github.com/X65/os-816) | Native multitasking operating system for X65 |
-| [**hardware**](https://github.com/X65/hardware) | Schematics and PCB design files |
-| [**docs**](https://github.com/X65/docs) | Technical documentation and development notes |
 
 ---
 
