@@ -7,7 +7,7 @@
 X65 is a **new 8-bit computer** built around the **WDC 65C816** CPU.  
 It combines the spirit of 1980s microcomputers with modern hardware, open design, and native software.
 
-> 🕹️ Website: [x65.zone](https://x65.zone) | 💬 Community: [Discord](https://discord.gg/TuTe3kymgy)
+> 🕹️ Website: [x65.zone](https://x65.zone) | 💬 Community: [Matrix](https://matrix.to/#/#x65:chrome.pl)
 
 ---
 
@@ -28,7 +28,7 @@ It combines the spirit of 1980s microcomputers with modern hardware, open design
 | [**firmware**](https://github.com/X65/firmware) | Firmware powering the MCU bridges |
 | [**emu**](https://github.com/X65/emu) | Full software emulator with debugger and VS Code integration |
 | [**examples**](https://github.com/X65/examples) | Demo and test programs for real hardware and Emu |
-| [**os-816**](https://github.com/X65/os-816) | Native multitasking operating system for X65 |
+| **os-816** | Native multitasking operating system for X65 |
 
 ---
 
